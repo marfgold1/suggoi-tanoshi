@@ -1,0 +1,5 @@
+PLZ_REPO_DIR = ".plz"
+PLZ_REPO_OBJ = "objects"
+PLZ_REPO_HEAD = "HEAD"
+PLZ_GLOBAL_DIR = ".plzconfig"
+PLZ_GLOBAL_FILE = ".plz.conf"
